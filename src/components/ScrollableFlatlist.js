@@ -169,7 +169,6 @@ export default function ScrollableFlatlist() {
                   backgroundColor: '#FCD259',
                   borderRadius: _spacing,
                 }}>
-                {/* <Feather name="arrow-right" size={24} color="#36303F" /> */}
                 <Text style={{color: 'black', fontSize: 25}}>{'>'}</Text>
               </View>
             </TouchableOpacity>
